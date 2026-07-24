@@ -1,0 +1,6 @@
+EXPORTS
+
+; Only export what the game needs to avoid forwarder loops
+CreateDXGIFactory
+CreateDXGIFactory1
+CreateDXGIFactory2
