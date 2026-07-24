@@ -1,0 +1,14 @@
+# Build output
+bin/
+*.obj
+*.exp
+*.lib
+*.pdb
+
+# Runtime diagnostics
+nvcloak.log
+
+# Visual Studio
+.vs/
+*.user
+*.suo
